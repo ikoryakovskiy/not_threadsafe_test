@@ -1,0 +1,48 @@
+# Compiled Object files
+*.bin
+*.slo
+*.lo
+*.o
+*.obj
+*.pyc
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Backup files
+*~
+*.orig
+
+# Qt creator
+*.config
+*.user
+*.creator
+*.files
+*.includes
+
+# Build directories
+build/
+debug/
+release/
+doc/html/
+addons/tensorflow/lib
